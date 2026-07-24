@@ -12,15 +12,6 @@
 </p>
 
 ---
----
-
-# 📸 Project Preview
-
-## Cover Page
-
-<p align="center">
-  <img src="assets/images/cover%20page.jpg" alt="Cover Page" width="700">
-</p>
 
 ---
 # 📖 Project Overview
