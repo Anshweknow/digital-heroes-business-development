@@ -23,22 +23,6 @@
 </p>
 
 ---
-
-## 📈 Sales Funnel
-
-<p align="center">
-  <img src="assets/images/sales%20funnel.jpg" alt="Sales Funnel" width="700">
-</p>
-
----
-
-## 👥 Stakeholder Map
-
-<p align="center">
-  <img src="assets/images/stakeholder%20map.jpg" alt="Stakeholder Map" width="700">
-</p>
-
----
 # 📖 Project Overview
 
 This repository contains my complete solution for the **Digital Heroes Business Development (Sales) Qualification Assignment**.
