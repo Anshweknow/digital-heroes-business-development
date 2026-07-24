@@ -12,8 +12,15 @@ The work is written as a practical go-to-market operating plan rather than an ac
 .
 ├── README.md
 ├── docs/
+│   ├── AI-Usage.md
 │   ├── Executive-Summary.md
-│   └── Task-A-Outbound-System.md
+│   ├── Task-A-Outbound-System.md
+│   └── Task-B-Competitive-Deal.md
+├── proposal/
+│   ├── Commercial-Structure.md
+│   ├── Executive-Proposal.md
+│   ├── Negotiation-Framework.md
+│   └── Proposal-Outline.md
 ├── assets/
 │   ├── diagrams/
 │   └── images/
@@ -34,6 +41,12 @@ The work is written as a practical go-to-market operating plan rather than an ac
 | Qualification framework | `docs/Task-A-Outbound-System.md` | BANT, MEDDICC, and SPICED comparison, selected framework, questions, and disqualification rules. |
 | Mermaid diagrams | `docs/Task-A-Outbound-System.md` | Lead funnel, customer journey, outbound process, and decision flow. |
 | ICP comparison model | `models/ICP-Comparison.csv` | Structured segment scoring model for prioritization. |
+| Task B competitive deal strategy | `docs/Task-B-Competitive-Deal.md` | Competitive deal plan covering COO strategy, internal developer handling, stakeholder map, risk analysis, and positioning. |
+| Commercial structure | `proposal/Commercial-Structure.md` | Phased engagement model with scope, pricing ranges, upsell paths, and commercial rationale. |
+| Proposal outline | `proposal/Proposal-Outline.md` | Client-facing proposal structure including executive summary, problems, solution, timeline, deliverables, pricing, FAQs, and next steps. |
+| Negotiation framework | `proposal/Negotiation-Framework.md` | BATNA, concession ladder, walk-away conditions, objection handling, closing questions, and decision criteria. |
+| Executive proposal | `proposal/Executive-Proposal.md` | Concise senior-level proposal narrative for approval of the phased engagement. |
+| AI usage note | `docs/AI-Usage.md` | Explanation of AI-assisted work and human judgement applied. |
 
 ## Business assumptions
 
