@@ -19,7 +19,7 @@
 ## 📘 Cover Page
 
 <p align="center">
-  <img src="assets/images/cover-page.jpg" alt="Cover Page" width="700">
+  <img src="./assets/images/cover-page.png" alt="Cover Page" width="800">
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 📈 Sales Funnel
 
 <p align="center">
-  <img src="assets/images/sales-funnel.jpg" alt="Sales Funnel" width="700">
+  <img src="./assets/images/sales-funnel.png" alt="Sales Funnel" width="800">
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 👥 Stakeholder Map
 
 <p align="center">
-  <img src="assets/images/stakeholder-map.jpg" alt="Stakeholder Map" width="700">
+  <img src="./assets/images/stakeholder-map.png" alt="Stakeholder Map" width="800">
 </p>
 
 ---
